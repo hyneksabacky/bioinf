@@ -1,0 +1,4 @@
+ORIGIN
+    1 attaaaggtt tataccttcc caggtaacaa accaaccaac tttcgatctc ttgtagatct
+    61 gttctctaaa cgaactttaa aatctgtgtg gctgtcactc ggctgcatgc ttagtgcact
+    121 cacgcagtat aattaataac taattactgt cgttgacagg acacgagtaa ctcgtctatc
